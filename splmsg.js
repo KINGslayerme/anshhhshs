@@ -7,7 +7,7 @@
  * #028 - #100DaysOfCode
  * By ilithya | 2019
  */
-var aans = prompt("Enter some text", "the javatpoint.com");  
+var aans = prompt("coolonin");  
 document.getElementById("coolT").innerHTML = aans;
 function getTwoDecimal(num) {
   // The +0.5 smoothens the transition change
